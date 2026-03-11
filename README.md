@@ -1,16 +1,16 @@
-# foundations-lab
+# foundry
 
 Foundational engineering exercises and reference implementations for the wider `k3n37` ecosystem.
 
 ## Why this repo exists
 
-Every stronger platform repo in this ecosystem depends on fundamentals: algorithms, complexity analysis, data representation, debugging habits, and systems thinking. `foundations-lab` is the place where those building blocks live in a focused, reusable form.
+Every stronger platform repo in this ecosystem depends on fundamentals: algorithms, complexity analysis, data representation, debugging habits, and systems thinking. `foundry` is the place where those building blocks live in a focused, reusable form.
 
 ## Role in the ecosystem
 
 - Upstream foundation for `algorithms-and-data-structures`
-- Feeds reasoning patterns into `distributed-systems-lab`
-- Supports architecture quality in `master-platform`
+- Feeds reasoning patterns into `mesh`
+- Supports architecture quality in `orbit`
 
 ## Current status
 
@@ -32,7 +32,7 @@ Early active lab with starter notes, reference problems, and a small runnable im
 ## Folder structure
 
 ```text
-foundations-lab/
+foundry/
 ├── docs/
 │   └── notes.md
 ├── src/
@@ -63,8 +63,8 @@ See [ROADMAP.md](./ROADMAP.md).
 ## Related repositories
 
 - `algorithms-and-data-structures`: more focused problem and pattern catalog
-- `distributed-systems-lab`: applies these fundamentals to concurrency and coordination
-- `master-platform`: downstream flagship platform that benefits from this repo’s rigor
+- `mesh`: applies these fundamentals to concurrency and coordination
+- `orbit`: downstream flagship platform that benefits from this repo’s rigor
 
 ## Future direction
 

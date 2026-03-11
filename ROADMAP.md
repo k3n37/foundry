@@ -20,4 +20,4 @@ Seed the repo with a strong baseline: notes, one implementation, and tests.
 
 - Lightweight benchmark harness
 - Visual problem walkthroughs
-- Cross-links into `system-design-lab`
+- Cross-links into `atlas`
