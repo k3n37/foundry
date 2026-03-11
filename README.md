@@ -8,7 +8,7 @@ Every stronger platform repo in this ecosystem depends on fundamentals: algorith
 
 ## Role in the ecosystem
 
-- Upstream foundation for `algorithms-and-data-structures`
+- Upstream foundation for `kernel`
 - Feeds reasoning patterns into `mesh`
 - Supports architecture quality in `orbit`
 
@@ -62,7 +62,7 @@ See [ROADMAP.md](./ROADMAP.md).
 
 ## Related repositories
 
-- `algorithms-and-data-structures`: more focused problem and pattern catalog
+- `kernel`: more focused problem and pattern catalog
 - `mesh`: applies these fundamentals to concurrency and coordination
 - `orbit`: downstream flagship platform that benefits from this repo’s rigor
 
